@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Nicolas Blanco</title>
+    <link>/fr/authors/</link>
+    <description>Recent content in Authors on Nicolas Blanco</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/fr/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/fr/authors/admin/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/authors/admin/</guid>
+      <description>Je suis doctorant dans l&amp;rsquo;équipe d&amp;rsquo;Informatique Théorique de l&amp;rsquo;Université de Birmingham. Mon directeur de thèse est Noam Zeilberger.
+Parmi les domaines de recherche qui m&amp;rsquo;attirent se trouvent les modèles de la logique linéaire, la sémantique des languages de programmation quantique et la théorie des catégories monoïdales.
+Je suis diplômé d&amp;rsquo;un Master en Logique Mathématique et Fondements de l&amp;rsquo;Informatique (LMFI) de l&amp;rsquo;Université Paris Diderot.
+Durant cette formation j&amp;rsquo;ai eu le privilège d&amp;rsquo;effectuer un stage de cinq mois au Laboratoire de Recherche en Informatique (LRI) de Paris Saclay sous la direction de Benoît Valiron.</description>
+    </item>
+    
+  </channel>
+</rss>
