@@ -3,307 +3,307 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/fr/authors/admin/</loc>
+    <loc>https://nicolas-blanco.github.io/fr/authors/admin/</loc>
     <lastmod>2019-09-09T18:25:23+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/authors/admin/"
+                href="https://nicolas-blanco.github.io/authors/admin/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/authors/admin/"
+                href="https://nicolas-blanco.github.io/fr/authors/admin/"
                 />
   </url>
   
   <url>
-    <loc>/fr/post/polycategorical_clickbait/</loc>
+    <loc>https://nicolas-blanco.github.io/fr/post/polycategorical_clickbait/</loc>
     <lastmod>2019-09-09T18:25:23+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/post/polycategorical_clickbait/"
+                href="https://nicolas-blanco.github.io/post/polycategorical_clickbait/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/post/polycategorical_clickbait/"
+                href="https://nicolas-blanco.github.io/fr/post/polycategorical_clickbait/"
                 />
   </url>
   
   <url>
-    <loc>/fr/authors/</loc>
+    <loc>https://nicolas-blanco.github.io/fr/authors/</loc>
     <lastmod>2019-09-09T18:25:23+01:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/authors/"
+                href="https://nicolas-blanco.github.io/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/authors/"
+                href="https://nicolas-blanco.github.io/fr/authors/"
                 />
   </url>
   
   <url>
-    <loc>/fr/tags/fibration/</loc>
+    <loc>https://nicolas-blanco.github.io/fr/tags/fibration/</loc>
     <lastmod>2019-09-09T18:25:23+01:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/fibration/"
+                href="https://nicolas-blanco.github.io/tags/fibration/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/tags/fibration/"
+                href="https://nicolas-blanco.github.io/fr/tags/fibration/"
                 />
   </url>
   
   <url>
-    <loc>/fr/</loc>
+    <loc>https://nicolas-blanco.github.io/fr/</loc>
     <lastmod>2019-09-09T18:25:23+01:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/"
+                href="https://nicolas-blanco.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/"
+                href="https://nicolas-blanco.github.io/fr/"
                 />
   </url>
   
   <url>
-    <loc>/fr/tags/polycat%C3%A9gorie/</loc>
+    <loc>https://nicolas-blanco.github.io/fr/tags/polycat%C3%A9gorie/</loc>
     <lastmod>2019-09-09T18:25:23+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/fr/post/</loc>
-    <lastmod>2019-09-09T18:25:23+01:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/post/"
-                />
-  </url>
-  
-  <url>
-    <loc>/fr/tags/</loc>
+    <loc>https://nicolas-blanco.github.io/fr/post/</loc>
     <lastmod>2019-09-09T18:25:23+01:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/"
+                href="https://nicolas-blanco.github.io/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/tags/"
+                href="https://nicolas-blanco.github.io/fr/post/"
                 />
   </url>
   
   <url>
-    <loc>/fr/talk/syco5/</loc>
+    <loc>https://nicolas-blanco.github.io/fr/tags/</loc>
+    <lastmod>2019-09-09T18:25:23+01:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nicolas-blanco.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://nicolas-blanco.github.io/fr/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://nicolas-blanco.github.io/fr/talk/syco5/</loc>
     <lastmod>2019-09-04T15:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/talk/syco5/"
+                href="https://nicolas-blanco.github.io/talk/syco5/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/talk/syco5/"
+                href="https://nicolas-blanco.github.io/fr/talk/syco5/"
                 />
   </url>
   
   <url>
-    <loc>/fr/tags/logique-lin%C3%A9aire/</loc>
+    <loc>https://nicolas-blanco.github.io/fr/tags/logique-lin%C3%A9aire/</loc>
     <lastmod>2019-09-04T15:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/fr/talk/</loc>
+    <loc>https://nicolas-blanco.github.io/fr/talk/</loc>
     <lastmod>2019-09-04T15:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/talk/"
+                href="https://nicolas-blanco.github.io/talk/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/talk/"
+                href="https://nicolas-blanco.github.io/fr/talk/"
                 />
   </url>
   
   <url>
-    <loc>/fr/slides/</loc>
+    <loc>https://nicolas-blanco.github.io/fr/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/slides/"
+                href="https://nicolas-blanco.github.io/slides/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/slides/"
+                href="https://nicolas-blanco.github.io/fr/slides/"
                 />
   </url>
   
   <url>
-    <loc>/fr/slides/example/</loc>
+    <loc>https://nicolas-blanco.github.io/fr/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/slides/example/"
+                href="https://nicolas-blanco.github.io/slides/example/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/slides/example/"
+                href="https://nicolas-blanco.github.io/fr/slides/example/"
                 />
   </url>
   
   <url>
-    <loc>/fr/tags/deep-learning/</loc>
+    <loc>https://nicolas-blanco.github.io/fr/tags/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/deep-learning/"
+                href="https://nicolas-blanco.github.io/tags/deep-learning/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/tags/deep-learning/"
+                href="https://nicolas-blanco.github.io/fr/tags/deep-learning/"
                 />
   </url>
   
   <url>
-    <loc>/fr/tags/demo/</loc>
+    <loc>https://nicolas-blanco.github.io/fr/tags/demo/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/demo/"
+                href="https://nicolas-blanco.github.io/tags/demo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/tags/demo/"
+                href="https://nicolas-blanco.github.io/fr/tags/demo/"
                 />
   </url>
   
   <url>
-    <loc>/fr/project/external-project/</loc>
+    <loc>https://nicolas-blanco.github.io/fr/project/external-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/project/external-project/"
+                href="https://nicolas-blanco.github.io/project/external-project/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/project/external-project/"
+                href="https://nicolas-blanco.github.io/fr/project/external-project/"
                 />
   </url>
   
   <url>
-    <loc>/fr/project/internal-project/</loc>
+    <loc>https://nicolas-blanco.github.io/fr/project/internal-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/project/internal-project/"
+                href="https://nicolas-blanco.github.io/project/internal-project/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/project/internal-project/"
+                href="https://nicolas-blanco.github.io/fr/project/internal-project/"
                 />
   </url>
   
   <url>
-    <loc>/fr/project/</loc>
+    <loc>https://nicolas-blanco.github.io/fr/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/project/"
+                href="https://nicolas-blanco.github.io/project/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/project/"
+                href="https://nicolas-blanco.github.io/fr/project/"
                 />
   </url>
   
   <url>
-    <loc>/fr/categories/</loc>
+    <loc>https://nicolas-blanco.github.io/fr/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories/"
+                href="https://nicolas-blanco.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/categories/"
+                href="https://nicolas-blanco.github.io/fr/categories/"
                 />
   </url>
   
   <url>
-    <loc>/fr/publication_types/</loc>
+    <loc>https://nicolas-blanco.github.io/fr/publication_types/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/publication_types/"
+                href="https://nicolas-blanco.github.io/publication_types/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/publication_types/"
+                href="https://nicolas-blanco.github.io/fr/publication_types/"
                 />
   </url>
   
   <url>
-    <loc>/fr/publication/</loc>
+    <loc>https://nicolas-blanco.github.io/fr/publication/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/publication/"
+                href="https://nicolas-blanco.github.io/publication/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/publication/"
+                href="https://nicolas-blanco.github.io/fr/publication/"
                 />
   </url>
   

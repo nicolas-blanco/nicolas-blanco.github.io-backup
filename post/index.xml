@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Nicolas Blanco</title>
-    <link>/post/</link>
+    <link>https://nicolas-blanco.github.io/post/</link>
     <description>Recent content in Posts on Nicolas Blanco</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 09 Sep 2019 18:25:23 +0100</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://nicolas-blanco.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>14 Amazing Facts about Polycategories and their Fibrations</title>
-      <link>/post/polycategorical_clickbait/</link>
+      <link>https://nicolas-blanco.github.io/post/polycategorical_clickbait/</link>
       <pubDate>Mon, 09 Sep 2019 18:25:23 +0100</pubDate>
       
-      <guid>/post/polycategorical_clickbait/</guid>
+      <guid>https://nicolas-blanco.github.io/post/polycategorical_clickbait/</guid>
       <description>A quick compilation of facts about polycategories together with links to the appropriate litterature. Some are original work.
  Polycategories have been introduced by Szabo in 1975 in Polycategories. Polycategories are &amp;ldquo;categories with many-to-many morphisms&amp;rdquo;, i.e. polymaps have many inputs and many outputs. Polycategories correspond to classical Gentzen sequent calculus. Polycategories compose on one object. Composition of Polycategories is the cut rule. Representable Polycategories, a.k.a. two-tensor polycategories, are linearly distributive categories, see Weakly distributive categories.</description>
     </item>

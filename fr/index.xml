@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nicolas Blanco</title>
-    <link>/fr/</link>
+    <link>https://nicolas-blanco.github.io/fr/</link>
     <description>Recent content on Nicolas Blanco</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>fr</language>
     <lastBuildDate>Mon, 09 Sep 2019 18:25:23 +0100</lastBuildDate>
     
-	    <atom:link href="/fr/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://nicolas-blanco.github.io/fr/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>14 Choses à savoir sur les Polycatégories et leurs Fibrations</title>
-      <link>/fr/post/polycategorical_clickbait/</link>
+      <link>https://nicolas-blanco.github.io/fr/post/polycategorical_clickbait/</link>
       <pubDate>Mon, 09 Sep 2019 18:25:23 +0100</pubDate>
       
-      <guid>/fr/post/polycategorical_clickbait/</guid>
+      <guid>https://nicolas-blanco.github.io/fr/post/polycategorical_clickbait/</guid>
       <description>&lt;p&gt;Une collection de choses à connaître sur les Polycatégories, avec des pointeurs vers des articles pertinents. Quelques travaux inédits y sont présentés.&lt;/p&gt;
 
 &lt;ol&gt;
@@ -28,7 +28,7 @@
 &lt;li&gt;Les &lt;strong&gt;Polycatégories représentables&lt;/strong&gt; sont les &lt;strong&gt;catégories linéairement distributives&lt;/strong&gt;, cf &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/0022404995001603&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Weakly distributive categories&lt;/em&gt;&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;Dans une &lt;strong&gt;Polycatégorie&lt;/strong&gt;, $\otimes$ et ⅋ sont caractérisés par une &lt;strong&gt;propriété universelle&lt;/strong&gt;.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;La Logique est Universelle !&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;Une &lt;strong&gt;Polycatégorie bifibrée&lt;/strong&gt; sur une Polycatégorie représentable est représentable, cf &lt;a href=&#34;/fr/talk/syco5/&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;my talk&lt;/em&gt;&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Une &lt;strong&gt;Polycatégorie bifibrée&lt;/strong&gt; sur une Polycatégorie représentable est représentable, cf &lt;a href=&#34;https://nicolas-blanco.github.io/fr/talk/syco5/&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;my talk&lt;/em&gt;&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;La &lt;strong&gt;Polycatégorie terminale&lt;/strong&gt; contient un objet $\ast$ et un polymorphisme $\underline{(m,n)}$ pour chaque paire d&amp;rsquo;arités.&lt;/li&gt;
 &lt;li&gt;Une &lt;strong&gt;Polycatégorie&lt;/strong&gt; est &lt;strong&gt;représentable&lt;/strong&gt; ssi elle est &lt;strong&gt;bifibrée&lt;/strong&gt; sur la &lt;strong&gt;Polycatégorie terminale&lt;/strong&gt;.&lt;/li&gt;
 &lt;li&gt;Les &lt;strong&gt;polymorphismes universaux&lt;/strong&gt; correspondent aux &lt;strong&gt;polymorphismes opcartésiens&lt;/strong&gt;, par rapport au foncteur vers la &lt;strong&gt;Polycatégorie&lt;/strong&gt; terminale.&lt;/li&gt;
@@ -40,19 +40,19 @@
     
     <item>
       <title>Classical linear logic via bifibrations of polycategories</title>
-      <link>/fr/talk/syco5/</link>
+      <link>https://nicolas-blanco.github.io/fr/talk/syco5/</link>
       <pubDate>Wed, 04 Sep 2019 15:00:00 +0000</pubDate>
       
-      <guid>/fr/talk/syco5/</guid>
+      <guid>https://nicolas-blanco.github.io/fr/talk/syco5/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>/fr/slides/example/</link>
+      <link>https://nicolas-blanco.github.io/fr/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/fr/slides/example/</guid>
+      <guid>https://nicolas-blanco.github.io/fr/slides/example/</guid>
       <description>
 
 &lt;h1 id=&#34;welcome-to-slides&#34;&gt;Welcome to Slides&lt;/h1&gt;
@@ -231,19 +231,19 @@ $$&lt;/p&gt;
     
     <item>
       <title>External Project</title>
-      <link>/fr/project/external-project/</link>
+      <link>https://nicolas-blanco.github.io/fr/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/fr/project/external-project/</guid>
+      <guid>https://nicolas-blanco.github.io/fr/project/external-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Internal Project</title>
-      <link>/fr/project/internal-project/</link>
+      <link>https://nicolas-blanco.github.io/fr/project/internal-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/fr/project/internal-project/</guid>
+      <guid>https://nicolas-blanco.github.io/fr/project/internal-project/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;

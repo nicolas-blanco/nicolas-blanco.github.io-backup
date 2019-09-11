@@ -2,14 +2,14 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	
 	<sitemap>
-	   	<loc>en/sitemap.xml</loc>
+	   	<loc>https://nicolas-blanco.github.io/en/sitemap.xml</loc>
 		
 	   	<lastmod>2019-09-09T18:25:23+01:00</lastmod>
 		
 	</sitemap>
 	
 	<sitemap>
-	   	<loc>fr/sitemap.xml</loc>
+	   	<loc>https://nicolas-blanco.github.io/fr/sitemap.xml</loc>
 		
 	   	<lastmod>2019-09-09T18:25:23+01:00</lastmod>
 		

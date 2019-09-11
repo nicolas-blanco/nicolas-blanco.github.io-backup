@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Nicolas Blanco</title>
-    <link>/fr/tags/</link>
+    <link>https://nicolas-blanco.github.io/fr/tags/</link>
     <description>Recent content in Tags on Nicolas Blanco</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <lastBuildDate>Mon, 09 Sep 2019 18:25:23 +0100</lastBuildDate>
     
-	<atom:link href="/fr/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://nicolas-blanco.github.io/fr/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Fibration</title>
-      <link>/fr/tags/fibration/</link>
+      <link>https://nicolas-blanco.github.io/fr/tags/fibration/</link>
       <pubDate>Mon, 09 Sep 2019 18:25:23 +0100</pubDate>
       
-      <guid>/fr/tags/fibration/</guid>
+      <guid>https://nicolas-blanco.github.io/fr/tags/fibration/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Polycatégorie</title>
-      <link>/fr/tags/polycat%C3%A9gorie/</link>
+      <link>https://nicolas-blanco.github.io/fr/tags/polycat%C3%A9gorie/</link>
       <pubDate>Mon, 09 Sep 2019 18:25:23 +0100</pubDate>
       
-      <guid>/fr/tags/polycat%C3%A9gorie/</guid>
+      <guid>https://nicolas-blanco.github.io/fr/tags/polycat%C3%A9gorie/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Logique linéaire</title>
-      <link>/fr/tags/logique-lin%C3%A9aire/</link>
+      <link>https://nicolas-blanco.github.io/fr/tags/logique-lin%C3%A9aire/</link>
       <pubDate>Wed, 04 Sep 2019 15:00:00 +0000</pubDate>
       
-      <guid>/fr/tags/logique-lin%C3%A9aire/</guid>
+      <guid>https://nicolas-blanco.github.io/fr/tags/logique-lin%C3%A9aire/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep Learning</title>
-      <link>/fr/tags/deep-learning/</link>
+      <link>https://nicolas-blanco.github.io/fr/tags/deep-learning/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/fr/tags/deep-learning/</guid>
+      <guid>https://nicolas-blanco.github.io/fr/tags/deep-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Demo</title>
-      <link>/fr/tags/demo/</link>
+      <link>https://nicolas-blanco.github.io/fr/tags/demo/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/fr/tags/demo/</guid>
+      <guid>https://nicolas-blanco.github.io/fr/tags/demo/</guid>
       <description></description>
     </item>
     

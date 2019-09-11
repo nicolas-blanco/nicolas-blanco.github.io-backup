@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Nicolas Blanco</title>
-    <link>/fr/post/</link>
+    <link>https://nicolas-blanco.github.io/fr/post/</link>
     <description>Recent content in Posts on Nicolas Blanco</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <lastBuildDate>Mon, 09 Sep 2019 18:25:23 +0100</lastBuildDate>
     
-	<atom:link href="/fr/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://nicolas-blanco.github.io/fr/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>14 Choses à savoir sur les Polycatégories et leurs Fibrations</title>
-      <link>/fr/post/polycategorical_clickbait/</link>
+      <link>https://nicolas-blanco.github.io/fr/post/polycategorical_clickbait/</link>
       <pubDate>Mon, 09 Sep 2019 18:25:23 +0100</pubDate>
       
-      <guid>/fr/post/polycategorical_clickbait/</guid>
+      <guid>https://nicolas-blanco.github.io/fr/post/polycategorical_clickbait/</guid>
       <description>Une collection de choses à connaître sur les Polycatégories, avec des pointeurs vers des articles pertinents. Quelques travaux inédits y sont présentés.
  Les Polycatégories ont été définies par Szabo en 1975 dans l&amp;rsquo;article Polycategories. Les Polycatégories sont des &amp;ldquo;catégories avec des morphismes a multiple entrées/sorties&amp;rdquo;. Les Polycatégories correspondent au calcul des séquents classique de Gentzen. Les Polycatégories se compose le long d&amp;rsquo;un objet. La composition de Polycatégories correspond à la coupure en logique.</description>
     </item>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks on Nicolas Blanco</title>
-    <link>/fr/talk/</link>
+    <link>https://nicolas-blanco.github.io/fr/talk/</link>
     <description>Recent content in Recent &amp; Upcoming Talks on Nicolas Blanco</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <lastBuildDate>Wed, 04 Sep 2019 15:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/fr/talk/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://nicolas-blanco.github.io/fr/talk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Classical linear logic via bifibrations of polycategories</title>
-      <link>/fr/talk/syco5/</link>
+      <link>https://nicolas-blanco.github.io/fr/talk/syco5/</link>
       <pubDate>Wed, 04 Sep 2019 15:00:00 +0000</pubDate>
       
-      <guid>/fr/talk/syco5/</guid>
+      <guid>https://nicolas-blanco.github.io/fr/talk/syco5/</guid>
       <description>Une correspondance entre catégories linéairement distributives et polycatégories bifibrée sur la polycatégorie terminale. (en anglais)</description>
     </item>
     
