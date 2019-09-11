@@ -89,6 +89,20 @@
 
   
   
+    <script>
+      window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+      ga('create', 'UA-147424188-1', 'auto');
+      ga('set', 'anonymizeIp', true);
+      ga('require', 'eventTracker');
+      ga('require', 'outboundLinkTracker');
+      ga('require', 'urlChangeTracker');
+      ga('send', 'pageview');
+    </script>
+    <script async src="//www.google-analytics.com/analytics.js"></script>
+    
+    <script async src="https://cdnjs.cloudflare.com/ajax/libs/autotrack/2.4.1/autotrack.js" integrity="sha512-HUmooslVKj4m6OBu0OgzjXXr+QuFYy/k7eLI5jdeEy/F4RSgMn6XRWRGkFi5IFaFgy7uFTkegp3Z0XnJf3Jq+g==" crossorigin="anonymous"></script>
+    
+  
   
 
   
@@ -111,16 +125,45 @@
   
   <meta property="twitter:card" content="summary">
   
+  <meta property="twitter:site" content="@star_autonomy">
+  <meta property="twitter:creator" content="@star_autonomy">
+  
   <meta property="og:site_name" content="Nicolas Blanco">
   <meta property="og:url" content="/fr/authors/admin/">
   <meta property="og:title" content=" | Nicolas Blanco">
-  <meta property="og:description" content="Je suis un doctorant en Informatique Théorique à l&#39;université de Birmingham."><meta property="og:image" content="/img/icon-192.png">
+  <meta property="og:description" content="Je suis un doctorant en Informatique Théorique à l&#39;université de Birmingham."><meta property="og:image" content="img/icon-192.png">
   <meta property="og:locale" content="fr">
   
-  <meta property="og:updated_time" content="2019-02-05T00:00:00&#43;00:00">
+  <meta property="og:updated_time" content="2019-09-09T18:25:23&#43;01:00">
   
 
   
+
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css">
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+<script>
+  window.addEventListener("load", function(){
+    window.cookieconsent.initialise({
+      "palette": {
+        "popup": {
+          "background": "#3f51b5",
+          "text": "#fff"
+        },
+        "button": {
+          "background": "#fff",
+          "text": "#3f51b5"
+        }
+      },
+      "theme": "classic",
+      "content": {
+        "message": "Ce site utilise des cookies pour vous assurer la meilleure expérience.",
+        "dismiss": "Accepter",
+        "link": "En savoir plus",
+        "href": "https://cookies.insites.com"
+      }
+    })});
+</script>
+
 
   
 
@@ -165,7 +208,7 @@
   <div class="container">
 
     
-      <a class="navbar-brand" href="/fr">Nicolas Blanco</a>
+      <a class="navbar-brand" href="/fr/">Nicolas Blanco</a>
       
       <button type="button" class="navbar-toggler" data-toggle="collapse"
               data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Ouvrir la barre de navigation">
@@ -240,6 +283,39 @@
           <a class="nav-link " href="/fr/#posts">
             
             <span>Articles</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/fr/#talks">
+            
+            <span>Conférences</span>
             
           </a>
         </li>
@@ -355,7 +431,7 @@
 
       
       
-      <img class="portrait" src="/fr/authors/admin/me.png" itemprop="image" alt="Avatar">
+      <img class="portrait" src="/fr/authors/admin/avatar_hu6cb06f1c2985e0eb6e96a2e42c82ed24_463147_250x250_fill_lanczos_center_2.png" itemprop="image" alt="Avatar">
       
 
       <div class="portrait-title">
@@ -426,6 +502,23 @@
           </a>
         </li>
         
+        
+        
+        
+          
+        
+        
+        
+        
+        
+          
+        
+        <li>
+          <a itemprop="sameAs" href="https://twitter.com/star_autonomy" target="_blank" rel="noopener">
+            <i class="fab fa-twitter big-icon"></i>
+          </a>
+        </li>
+        
       </ul>
 
     </div>
@@ -436,14 +529,14 @@
     
 
     <p>Je suis doctorant dans <a href="http://www.cs.bham.ac.uk/research/groupings/theory/" target="_blank">l&rsquo;équipe d&rsquo;Informatique Théorique</a> de l&rsquo;Université de Birmingham. Mon directeur de thèse est <a href="http://noamz.org/" target="_blank">Noam Zeilberger</a>.<br />
-Parmi les domaines de recherche qui m&rsquo;attirent se trouvent les modèles de la logique linéaire, la sémantique des languages de programmation quantique et la théorie des catégories monoïdales.</p>
+Parmi les domaines de recherche qui m&rsquo;attirent se trouvent les modèles de la logique linéaire, la sémantique des langages de programmation quantique et la théorie des catégories monoïdales.</p>
 
 <p>Je suis diplômé d&rsquo;un Master en <a href="http://www.math.univ-paris-diderot.fr/m2lmfi/" target="_blank">Logique Mathématique et Fondements de l&rsquo;Informatique (LMFI)</a> de l&rsquo;Université Paris Diderot.<br />
 Durant cette formation j&rsquo;ai eu le privilège d&rsquo;effectuer un stage de cinq mois au <a href="https://www.lri.fr/" target="_blank">Laboratoire de Recherche en Informatique (LRI)</a> de Paris Saclay sous la direction de <a href="http://www.monoidal.net/" target="_blank">Benoît Valiron</a>.
-J&rsquo;y ai développé la syntaxe et la sémantique d&rsquo;un $\lambda\mu$-calcul probabilistique linéaire.</p>
+J&rsquo;y ai développé la syntaxe et la sémantique d&rsquo;un $\lambda\mu$-calcul probabiliste linéaire.</p>
 
 <p>Récemment je me suis penché sur les raffinements de modèles de la logique linéaire.<br />
-D&rsquo;un point de vue catégorique, cela peut se représenter sous la forme d&rsquo;un foncteur $p \colon \mathcal{E} \to \mathcal{B}$ pour lequel la base $\mathcal{B}$ est symmétrique monoïdale fermée ou $\ast$-autonome.<br />
+D&rsquo;un point de vue catégorique, cela peut se représenter sous la forme d&rsquo;un foncteur $p \colon \mathcal{E} \to \mathcal{B}$ pour lequel la base $\mathcal{B}$ est symétrique monoïdale fermée ou $\ast$-autonome.<br />
 Il est alors naturel de se demander si la structure logique de la base peut être étendue à la catégorie totale $\mathcal{E}$.</p>
 
 <p>Une approche que je trouve élégante pour analyser ce problème est en passant aux multicatégories dans le cas intuitionniste et aux polycatégories dans le cas classique.<br />
@@ -465,7 +558,7 @@ Donc d&rsquo;une certaine manière mettre des normes sur les espaces vectoriels 
           
           <li>Logique Linéaire</li>
           
-          <li>Languages de Programmation Quantique</li>
+          <li>Langages de Programmation Quantique</li>
           
         </ul>
       </div>
@@ -511,11 +604,11 @@ Donc d&rsquo;une certaine manière mettre des normes sur les espaces vectoriels 
       <ul>
         
         <li>
-          <a href="/fr/post/jupyter/">Display Jupyter Notebooks with Academic</a>
+          <a href="/fr/post/polycategorical_clickbait/">14 Choses à savoir sur les Polycatégories et leurs Fibrations</a>
         </li>
         
         <li>
-          <a href="/fr/post/getting-started/">Academic: the website builder for Hugo</a>
+          <a href="/fr/talk/syco5/">Classical linear logic via bifibrations of polycategories</a>
         </li>
         
       </ul>

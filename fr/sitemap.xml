@@ -4,7 +4,7 @@
   
   <url>
     <loc>/fr/authors/admin/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <lastmod>2019-09-09T18:25:23+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -18,8 +18,23 @@
   </url>
   
   <url>
+    <loc>/fr/post/polycategorical_clickbait/</loc>
+    <lastmod>2019-09-09T18:25:23+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/post/polycategorical_clickbait/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/post/polycategorical_clickbait/"
+                />
+  </url>
+  
+  <url>
     <loc>/fr/authors/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <lastmod>2019-09-09T18:25:23+01:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -34,23 +49,24 @@
   </url>
   
   <url>
-    <loc>/fr/post/jupyter/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    <loc>/fr/tags/fibration/</loc>
+    <lastmod>2019-09-09T18:25:23+01:00</lastmod>
+    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/post/jupyter/"
+                href="/tags/fibration/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/post/jupyter/"
+                href="/fr/tags/fibration/"
                 />
   </url>
   
   <url>
     <loc>/fr/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <lastmod>2019-09-09T18:25:23+01:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -65,8 +81,15 @@
   </url>
   
   <url>
+    <loc>/fr/tags/polycat%C3%A9gorie/</loc>
+    <lastmod>2019-09-09T18:25:23+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/fr/post/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <lastmod>2019-09-09T18:25:23+01:00</lastmod>
+    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -80,39 +103,8 @@
   </url>
   
   <url>
-    <loc>/fr/tags/academic/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/academic/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/tags/academic/"
-                />
-  </url>
-  
-  <url>
-    <loc>/fr/post/getting-started/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/post/getting-started/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/post/getting-started/"
-                />
-  </url>
-  
-  <url>
     <loc>/fr/tags/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <lastmod>2019-09-09T18:25:23+01:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -123,6 +115,151 @@
                 rel="alternate"
                 hreflang="fr"
                 href="/fr/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>/fr/talk/syco5/</loc>
+    <lastmod>2019-09-04T15:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/talk/syco5/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/talk/syco5/"
+                />
+  </url>
+  
+  <url>
+    <loc>/fr/tags/logique-lin%C3%A9aire/</loc>
+    <lastmod>2019-09-04T15:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/fr/talk/</loc>
+    <lastmod>2019-09-04T15:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/talk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/talk/"
+                />
+  </url>
+  
+  <url>
+    <loc>/fr/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/slides/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/slides/"
+                />
+  </url>
+  
+  <url>
+    <loc>/fr/slides/example/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/slides/example/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/slides/example/"
+                />
+  </url>
+  
+  <url>
+    <loc>/fr/tags/deep-learning/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/deep-learning/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/tags/deep-learning/"
+                />
+  </url>
+  
+  <url>
+    <loc>/fr/tags/demo/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/demo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/tags/demo/"
+                />
+  </url>
+  
+  <url>
+    <loc>/fr/project/external-project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/project/external-project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/project/external-project/"
+                />
+  </url>
+  
+  <url>
+    <loc>/fr/project/internal-project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/project/internal-project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/project/internal-project/"
+                />
+  </url>
+  
+  <url>
+    <loc>/fr/project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/project/"
                 />
   </url>
   
@@ -153,6 +290,20 @@
                 rel="alternate"
                 hreflang="fr"
                 href="/fr/publication_types/"
+                />
+  </url>
+  
+  <url>
+    <loc>/fr/publication/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/publication/"
                 />
   </url>
   

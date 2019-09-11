@@ -6,27 +6,19 @@
     <description>Recent content in Posts on Nicolas Blanco</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Sep 2019 18:25:23 +0100</lastBuildDate>
     
 	<atom:link href="/fr/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Display Jupyter Notebooks with Academic</title>
-      <link>/fr/post/jupyter/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <title>14 Choses à savoir sur les Polycatégories et leurs Fibrations</title>
+      <link>/fr/post/polycategorical_clickbait/</link>
+      <pubDate>Mon, 09 Sep 2019 18:25:23 +0100</pubDate>
       
-      <guid>/fr/post/jupyter/</guid>
-      <description>Learn how to blog in Academic using Jupyter notebooks</description>
-    </item>
-    
-    <item>
-      <title>Academic: the website builder for Hugo</title>
-      <link>/fr/post/getting-started/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/fr/post/getting-started/</guid>
-      <description>Create a beautifully simple website in under 10 minutes.</description>
+      <guid>/fr/post/polycategorical_clickbait/</guid>
+      <description>Une collection de choses à connaître sur les Polycatégories, avec des pointeurs vers des articles pertinents. Quelques travaux inédits y sont présentés.
+ Les Polycatégories ont été définies par Szabo en 1975 dans l&amp;rsquo;article Polycategories. Les Polycatégories sont des &amp;ldquo;catégories avec des morphismes a multiple entrées/sorties&amp;rdquo;. Les Polycatégories correspondent au calcul des séquents classique de Gentzen. Les Polycatégories se compose le long d&amp;rsquo;un objet. La composition de Polycatégories correspond à la coupure en logique.</description>
     </item>
     
   </channel>

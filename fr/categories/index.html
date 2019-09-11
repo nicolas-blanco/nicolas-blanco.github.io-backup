@@ -87,6 +87,20 @@
 
   
   
+    <script>
+      window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+      ga('create', 'UA-147424188-1', 'auto');
+      ga('set', 'anonymizeIp', true);
+      ga('require', 'eventTracker');
+      ga('require', 'outboundLinkTracker');
+      ga('require', 'urlChangeTracker');
+      ga('send', 'pageview');
+    </script>
+    <script async src="//www.google-analytics.com/analytics.js"></script>
+    
+    <script async src="https://cdnjs.cloudflare.com/ajax/libs/autotrack/2.4.1/autotrack.js" integrity="sha512-HUmooslVKj4m6OBu0OgzjXXr+QuFYy/k7eLI5jdeEy/F4RSgMn6XRWRGkFi5IFaFgy7uFTkegp3Z0XnJf3Jq+g==" crossorigin="anonymous"></script>
+    
+  
   
 
   
@@ -109,16 +123,45 @@
   
   <meta property="twitter:card" content="summary">
   
+  <meta property="twitter:site" content="@star_autonomy">
+  <meta property="twitter:creator" content="@star_autonomy">
+  
   <meta property="og:site_name" content="Nicolas Blanco">
   <meta property="og:url" content="/fr/categories/">
   <meta property="og:title" content="Categories | Nicolas Blanco">
-  <meta property="og:description" content="Je suis un doctorant en Informatique Théorique à l&#39;université de Birmingham."><meta property="og:image" content="/img/icon-192.png">
+  <meta property="og:description" content="Je suis un doctorant en Informatique Théorique à l&#39;université de Birmingham."><meta property="og:image" content="img/icon-192.png">
   <meta property="og:locale" content="fr">
   
   
   
 
   
+
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css">
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+<script>
+  window.addEventListener("load", function(){
+    window.cookieconsent.initialise({
+      "palette": {
+        "popup": {
+          "background": "#3f51b5",
+          "text": "#fff"
+        },
+        "button": {
+          "background": "#fff",
+          "text": "#3f51b5"
+        }
+      },
+      "theme": "classic",
+      "content": {
+        "message": "Ce site utilise des cookies pour vous assurer la meilleure expérience.",
+        "dismiss": "Accepter",
+        "link": "En savoir plus",
+        "href": "https://cookies.insites.com"
+      }
+    })});
+</script>
+
 
   
 
@@ -163,7 +206,7 @@
   <div class="container">
 
     
-      <a class="navbar-brand" href="/fr">Nicolas Blanco</a>
+      <a class="navbar-brand" href="/fr/">Nicolas Blanco</a>
       
       <button type="button" class="navbar-toggler" data-toggle="collapse"
               data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Ouvrir la barre de navigation">
@@ -238,6 +281,39 @@
           <a class="nav-link " href="/fr/#posts">
             
             <span>Articles</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/fr/#talks">
+            
+            <span>Conférences</span>
             
           </a>
         </li>
