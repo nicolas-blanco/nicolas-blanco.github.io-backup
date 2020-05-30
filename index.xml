@@ -6,10 +6,19 @@
     <description>Recent content on Nicolas Blanco</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Sep 2019 18:25:23 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2020 13:28:54 +0100</lastBuildDate>
     
 	    <atom:link href="https://nicolas-blanco.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bifibrations of polycategories and classical linear logic (draft)</title>
+      <link>https://nicolas-blanco.github.io/publication/polybifibrations/</link>
+      <pubDate>Sat, 30 May 2020 13:28:54 +0100</pubDate>
+      
+      <guid>https://nicolas-blanco.github.io/publication/polybifibrations/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>14 Amazing Facts about Polycategories and their Fibrations</title>

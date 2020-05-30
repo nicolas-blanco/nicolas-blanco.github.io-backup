@@ -6,10 +6,55 @@
     <description>Recent content in Tags on Nicolas Blanco</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Sep 2019 18:25:23 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2020 13:28:54 +0100</lastBuildDate>
     
 	<atom:link href="https://nicolas-blanco.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Frobenius monoids</title>
+      <link>https://nicolas-blanco.github.io/tags/frobenius-monoids/</link>
+      <pubDate>Sat, 30 May 2020 13:28:54 +0100</pubDate>
+      
+      <guid>https://nicolas-blanco.github.io/tags/frobenius-monoids/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grothendieck construction</title>
+      <link>https://nicolas-blanco.github.io/tags/grothendieck-construction/</link>
+      <pubDate>Sat, 30 May 2020 13:28:54 +0100</pubDate>
+      
+      <guid>https://nicolas-blanco.github.io/tags/grothendieck-construction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polycategories</title>
+      <link>https://nicolas-blanco.github.io/tags/polycategories/</link>
+      <pubDate>Sat, 30 May 2020 13:28:54 +0100</pubDate>
+      
+      <guid>https://nicolas-blanco.github.io/tags/polycategories/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bifibrations</title>
+      <link>https://nicolas-blanco.github.io/tags/bifibrations/</link>
+      <pubDate>Sat, 30 May 2020 13:28:54 +0100</pubDate>
+      
+      <guid>https://nicolas-blanco.github.io/tags/bifibrations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linear logic</title>
+      <link>https://nicolas-blanco.github.io/tags/linear-logic/</link>
+      <pubDate>Sat, 30 May 2020 13:28:54 +0100</pubDate>
+      
+      <guid>https://nicolas-blanco.github.io/tags/linear-logic/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Fibration</title>
@@ -26,15 +71,6 @@
       <pubDate>Mon, 09 Sep 2019 18:25:23 +0100</pubDate>
       
       <guid>https://nicolas-blanco.github.io/tags/polycategory/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Linear Logic</title>
-      <link>https://nicolas-blanco.github.io/tags/linear-logic/</link>
-      <pubDate>Wed, 04 Sep 2019 15:00:00 +0000</pubDate>
-      
-      <guid>https://nicolas-blanco.github.io/tags/linear-logic/</guid>
       <description></description>
     </item>
     

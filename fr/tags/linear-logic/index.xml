@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>linear logic on Nicolas Blanco</title>
+    <link>https://nicolas-blanco.github.io/fr/tags/linear-logic/</link>
+    <description>Recent content in linear logic on Nicolas Blanco</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Sat, 30 May 2020 13:28:54 +0100</lastBuildDate>
+    
+	<atom:link href="https://nicolas-blanco.github.io/fr/tags/linear-logic/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bifibrations of polycategories and classical linear logic (draft)</title>
+      <link>https://nicolas-blanco.github.io/fr/publication/polybifibrations/</link>
+      <pubDate>Sat, 30 May 2020 13:28:54 +0100</pubDate>
+      
+      <guid>https://nicolas-blanco.github.io/fr/publication/polybifibrations/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
