@@ -6,10 +6,19 @@
     <description>Recent content on Nicolas Blanco</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Sat, 30 May 2020 13:28:54 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2020 16:30:00 +0100</lastBuildDate>
     
 	<atom:link href="https://nicolas-blanco.github.io/fr/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bifibrations of polycategories and classical linear logic</title>
+      <link>https://nicolas-blanco.github.io/fr/talk/mfps36/</link>
+      <pubDate>Tue, 02 Jun 2020 16:30:00 +0100</pubDate>
+      
+      <guid>https://nicolas-blanco.github.io/fr/talk/mfps36/</guid>
+      <description>Présentation de la théorie des polycatégories bifibrées et de leur lien avec la logique linéaire (en anglais)</description>
+    </item>
     
     <item>
       <title>Bifibrations of polycategories and classical linear logic (draft)</title>
@@ -42,7 +51,7 @@
     <item>
       <title></title>
       <link>https://nicolas-blanco.github.io/fr/authors/admin/</link>
-      <pubDate>Sat, 30 May 2020 13:28:54 +0100</pubDate>
+      <pubDate>Tue, 02 Jun 2020 16:30:00 +0100</pubDate>
       
       <guid>https://nicolas-blanco.github.io/fr/authors/admin/</guid>
       <description>Je suis doctorant dans l&amp;rsquo;équipe d&amp;rsquo;Informatique Théorique de l&amp;rsquo;Université de Birmingham. Mon directeur de thèse est Noam Zeilberger.

@@ -6,10 +6,19 @@
     <description>Recent content on Nicolas Blanco</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 30 May 2020 13:28:54 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2020 16:30:00 +0100</lastBuildDate>
     
 	<atom:link href="https://nicolas-blanco.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bifibrations of polycategories and classical linear logic</title>
+      <link>https://nicolas-blanco.github.io/talk/mfps36/</link>
+      <pubDate>Tue, 02 Jun 2020 16:30:00 +0100</pubDate>
+      
+      <guid>https://nicolas-blanco.github.io/talk/mfps36/</guid>
+      <description>Presenting the theory of bifibration of polycategories and its relation to classical multiplicative linear logic.</description>
+    </item>
     
     <item>
       <title>Bifibrations of polycategories and classical linear logic (draft)</title>
@@ -42,7 +51,7 @@
     <item>
       <title></title>
       <link>https://nicolas-blanco.github.io/authors/admin/</link>
-      <pubDate>Sat, 30 May 2020 13:28:54 +0100</pubDate>
+      <pubDate>Tue, 02 Jun 2020 16:30:00 +0100</pubDate>
       
       <guid>https://nicolas-blanco.github.io/authors/admin/</guid>
       <description>I am a PhD student in the Theoretical Computer Science group at the University of Birmingham. My supervisor is Noam Zeilberger. My research interests include models of linear logic, categorical semantics of non-classical programming languages - e.g. probabilistic or quantum programming languages - and monoidal categories.
