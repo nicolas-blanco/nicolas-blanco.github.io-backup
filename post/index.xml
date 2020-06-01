@@ -1,24 +1,43 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Nicolas Blanco</title>
+    <title>Posts | Nicolas Blanco</title>
     <link>https://nicolas-blanco.github.io/post/</link>
-    <description>Recent content in Posts on Nicolas Blanco</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Mon, 09 Sep 2019 18:25:23 +0100</lastBuildDate>
-    
-	<atom:link href="https://nicolas-blanco.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://nicolas-blanco.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><lastBuildDate>Mon, 09 Sep 2019 18:25:23 +0100</lastBuildDate>
+    <image>
+      <url>https://nicolas-blanco.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Posts</title>
+      <link>https://nicolas-blanco.github.io/post/</link>
+    </image>
     
     <item>
       <title>14 Amazing Facts about Polycategories and their Fibrations</title>
       <link>https://nicolas-blanco.github.io/post/polycategorical_clickbait/</link>
       <pubDate>Mon, 09 Sep 2019 18:25:23 +0100</pubDate>
-      
       <guid>https://nicolas-blanco.github.io/post/polycategorical_clickbait/</guid>
-      <description>A quick compilation of facts about polycategories together with links to the appropriate litterature. Some are original work.
- Polycategories have been introduced by Szabo in 1975 in Polycategories. Polycategories are &amp;ldquo;categories with many-to-many morphisms&amp;rdquo;, i.e. polymaps have many inputs and many outputs. Polycategories correspond to classical Gentzen sequent calculus. Polycategories compose on one object. Composition of Polycategories is the cut rule. Representable Polycategories, a.k.a. two-tensor polycategories, are linearly distributive categories, see Weakly distributive categories.</description>
+      <description>&lt;p&gt;A quick compilation of facts about polycategories together with links to the appropriate litterature. Some are original work.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Polycategories&lt;/strong&gt; have been introduced by Szabo in 1975 in 
+&lt;a href=&#34;https://www.tandfonline.com/doi/abs/10.1080/00927877508822067&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Polycategories&lt;/em&gt;&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Polycategories&lt;/strong&gt; are &amp;ldquo;categories with many-to-many morphisms&amp;rdquo;, i.e. &lt;strong&gt;polymaps&lt;/strong&gt; have many inputs and many outputs.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Polycategories&lt;/strong&gt; correspond to &lt;strong&gt;classical Gentzen sequent calculus&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Polycategories&lt;/strong&gt; compose on one object.&lt;/li&gt;
+&lt;li&gt;Composition of &lt;strong&gt;Polycategories&lt;/strong&gt; is the cut rule.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Representable Polycategories&lt;/strong&gt;, a.k.a. two-tensor polycategories, are &lt;strong&gt;linearly distributive categories&lt;/strong&gt;, see 
+&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/0022404995001603&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Weakly distributive categories&lt;/em&gt;&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;In a &lt;strong&gt;Polycategory&lt;/strong&gt;, $\otimes$ and ⅋ are characterised by &lt;strong&gt;universal properties&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Logic is Universal!&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Polycategories bifibred&lt;/strong&gt; over representable one are &lt;strong&gt;representable&lt;/strong&gt;, see 
+&lt;a href=&#34;https://nicolas-blanco.github.io/talk/syco5/&#34;&gt;&lt;em&gt;my talk&lt;/em&gt;&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;The &lt;strong&gt;terminal Polycategory&lt;/strong&gt; have one object $\ast$ and one polymap $\underline{(m,n)}$ for each arities.&lt;/li&gt;
+&lt;li&gt;A &lt;strong&gt;Polycategory&lt;/strong&gt; is &lt;strong&gt;representable&lt;/strong&gt; iff it is &lt;strong&gt;bifibred&lt;/strong&gt; over the &lt;strong&gt;terminal&lt;/strong&gt; one.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Universal polymaps&lt;/strong&gt; are the &lt;strong&gt;opcartesian polymaps&lt;/strong&gt;, w.r.t. the functor into the terminal &lt;strong&gt;Polycategory&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Universality is Fibrational!&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Frobenius algebras&lt;/strong&gt; are the generalised elements of &lt;strong&gt;Polycategories&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
   </channel>

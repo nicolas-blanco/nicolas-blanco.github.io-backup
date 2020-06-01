@@ -1,96 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Nicolas Blanco</title>
+    <title>Tags | Nicolas Blanco</title>
     <link>https://nicolas-blanco.github.io/tags/</link>
-    <description>Recent content in Tags on Nicolas Blanco</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Tue, 02 Jun 2020 16:30:00 +0100</lastBuildDate>
-    
-	<atom:link href="https://nicolas-blanco.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Frobenius monoids</title>
-      <link>https://nicolas-blanco.github.io/tags/frobenius-monoids/</link>
-      <pubDate>Tue, 02 Jun 2020 16:30:00 +0100</pubDate>
-      
-      <guid>https://nicolas-blanco.github.io/tags/frobenius-monoids/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Grothendieck construction</title>
-      <link>https://nicolas-blanco.github.io/tags/grothendieck-construction/</link>
-      <pubDate>Tue, 02 Jun 2020 16:30:00 +0100</pubDate>
-      
-      <guid>https://nicolas-blanco.github.io/tags/grothendieck-construction/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Polycategories</title>
-      <link>https://nicolas-blanco.github.io/tags/polycategories/</link>
-      <pubDate>Tue, 02 Jun 2020 16:30:00 +0100</pubDate>
-      
-      <guid>https://nicolas-blanco.github.io/tags/polycategories/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>bifibrations</title>
-      <link>https://nicolas-blanco.github.io/tags/bifibrations/</link>
-      <pubDate>Tue, 02 Jun 2020 16:30:00 +0100</pubDate>
-      
-      <guid>https://nicolas-blanco.github.io/tags/bifibrations/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>linear logic</title>
-      <link>https://nicolas-blanco.github.io/tags/linear-logic/</link>
-      <pubDate>Tue, 02 Jun 2020 16:30:00 +0100</pubDate>
-      
-      <guid>https://nicolas-blanco.github.io/tags/linear-logic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fibration</title>
-      <link>https://nicolas-blanco.github.io/tags/fibration/</link>
-      <pubDate>Mon, 09 Sep 2019 18:25:23 +0100</pubDate>
-      
-      <guid>https://nicolas-blanco.github.io/tags/fibration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Polycategory</title>
-      <link>https://nicolas-blanco.github.io/tags/polycategory/</link>
-      <pubDate>Mon, 09 Sep 2019 18:25:23 +0100</pubDate>
-      
-      <guid>https://nicolas-blanco.github.io/tags/polycategory/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Deep Learning</title>
-      <link>https://nicolas-blanco.github.io/tags/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://nicolas-blanco.github.io/tags/deep-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Demo</title>
-      <link>https://nicolas-blanco.github.io/tags/demo/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://nicolas-blanco.github.io/tags/demo/</guid>
-      <description></description>
-    </item>
+      <atom:link href="https://nicolas-blanco.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><lastBuildDate>Tue, 02 Jun 2020 16:30:00 +0100</lastBuildDate>
+    <image>
+      <url>https://nicolas-blanco.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Tags</title>
+      <link>https://nicolas-blanco.github.io/tags/</link>
+    </image>
     
   </channel>
 </rss>

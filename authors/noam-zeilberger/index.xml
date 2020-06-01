@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Noam Zeilberger on Nicolas Blanco</title>
+    <title>Noam Zeilberger | Nicolas Blanco</title>
     <link>https://nicolas-blanco.github.io/authors/noam-zeilberger/</link>
-    <description>Recent content in Noam Zeilberger on Nicolas Blanco</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Sat, 30 May 2020 13:28:54 +0100</lastBuildDate>
-    
-	<atom:link href="https://nicolas-blanco.github.io/authors/noam-zeilberger/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://nicolas-blanco.github.io/authors/noam-zeilberger/index.xml" rel="self" type="application/rss+xml" />
+    <description>Noam Zeilberger</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><lastBuildDate>Sat, 30 May 2020 13:28:54 +0100</lastBuildDate>
+    <image>
+      <url>https://nicolas-blanco.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Noam Zeilberger</title>
+      <link>https://nicolas-blanco.github.io/authors/noam-zeilberger/</link>
+    </image>
     
     <item>
       <title>Bifibrations of polycategories and classical linear logic (draft)</title>
       <link>https://nicolas-blanco.github.io/publication/polybifibrations/</link>
       <pubDate>Sat, 30 May 2020 13:28:54 +0100</pubDate>
-      
       <guid>https://nicolas-blanco.github.io/publication/polybifibrations/</guid>
       <description></description>
     </item>

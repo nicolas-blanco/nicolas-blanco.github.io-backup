@@ -1,36 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on Nicolas Blanco</title>
+    <title>Authors | Nicolas Blanco</title>
     <link>https://nicolas-blanco.github.io/fr/authors/</link>
-    <description>Recent content in Authors on Nicolas Blanco</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>fr</language>
-    <lastBuildDate>Tue, 02 Jun 2020 16:30:00 +0100</lastBuildDate>
-    
-	<atom:link href="https://nicolas-blanco.github.io/fr/authors/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title></title>
-      <link>https://nicolas-blanco.github.io/fr/authors/admin/</link>
-      <pubDate>Tue, 02 Jun 2020 16:30:00 +0100</pubDate>
-      
-      <guid>https://nicolas-blanco.github.io/fr/authors/admin/</guid>
-      <description>Je suis doctorant dans l&amp;rsquo;équipe d&amp;rsquo;Informatique Théorique de l&amp;rsquo;Université de Birmingham. Mon directeur de thèse est Noam Zeilberger.
-Parmi les domaines de recherche qui m&amp;rsquo;attirent se trouvent les modèles de la logique linéaire, la sémantique des langages de programmation quantique et la théorie des catégories monoïdales.
-Je suis diplômé d&amp;rsquo;un Master en Logique Mathématique et Fondements de l&amp;rsquo;Informatique (LMFI) de l&amp;rsquo;Université Paris Diderot.
-Durant cette formation j&amp;rsquo;ai eu le privilège d&amp;rsquo;effectuer un stage de cinq mois au Laboratoire de Recherche en Informatique (LRI) de Paris Saclay sous la direction de Benoît Valiron.</description>
-    </item>
-    
-    <item>
-      <title>Noam Zeilberger</title>
-      <link>https://nicolas-blanco.github.io/fr/authors/noam-zeilberger/</link>
-      <pubDate>Sat, 30 May 2020 13:28:54 +0100</pubDate>
-      
-      <guid>https://nicolas-blanco.github.io/fr/authors/noam-zeilberger/</guid>
-      <description></description>
-    </item>
+      <atom:link href="https://nicolas-blanco.github.io/fr/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr</language><lastBuildDate>Tue, 02 Jun 2020 16:30:00 +0100</lastBuildDate>
+    <image>
+      <url>https://nicolas-blanco.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Authors</title>
+      <link>https://nicolas-blanco.github.io/fr/authors/</link>
+    </image>
     
   </channel>
 </rss>

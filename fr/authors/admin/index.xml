@@ -3,28 +3,27 @@
   <channel>
     <title>Nicolas Blanco</title>
     <link>https://nicolas-blanco.github.io/fr/authors/admin/</link>
-    <description>Recent content on Nicolas Blanco</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>fr</language>
-    <lastBuildDate>Tue, 02 Jun 2020 16:30:00 +0100</lastBuildDate>
-    
-	<atom:link href="https://nicolas-blanco.github.io/fr/authors/admin/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://nicolas-blanco.github.io/fr/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nicolas Blanco</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr</language><lastBuildDate>Tue, 02 Jun 2020 16:30:00 +0100</lastBuildDate>
+    <image>
+      <url>https://nicolas-blanco.github.io/fr/authors/admin/avatar_hu77c87ab66e5c28b255aec920ce57155c_1961786_270x270_fill_q90_lanczos_center.jpg</url>
+      <title>Nicolas Blanco</title>
+      <link>https://nicolas-blanco.github.io/fr/authors/admin/</link>
+    </image>
     
     <item>
       <title>Bifibrations of polycategories and classical linear logic</title>
       <link>https://nicolas-blanco.github.io/fr/talk/mfps36/</link>
       <pubDate>Tue, 02 Jun 2020 16:30:00 +0100</pubDate>
-      
       <guid>https://nicolas-blanco.github.io/fr/talk/mfps36/</guid>
-      <description>Présentation de la théorie des polycatégories bifibrées et de leur lien avec la logique linéaire (en anglais)</description>
+      <description></description>
     </item>
     
     <item>
       <title>Bifibrations of polycategories and classical linear logic (draft)</title>
       <link>https://nicolas-blanco.github.io/fr/publication/polybifibrations/</link>
       <pubDate>Sat, 30 May 2020 13:28:54 +0100</pubDate>
-      
       <guid>https://nicolas-blanco.github.io/fr/publication/polybifibrations/</guid>
       <description></description>
     </item>
@@ -33,31 +32,36 @@
       <title>14 Choses à savoir sur les Polycatégories et leurs Fibrations</title>
       <link>https://nicolas-blanco.github.io/fr/post/polycategorical_clickbait/</link>
       <pubDate>Mon, 09 Sep 2019 18:25:23 +0100</pubDate>
-      
       <guid>https://nicolas-blanco.github.io/fr/post/polycategorical_clickbait/</guid>
-      <description>Une collection de choses à connaître sur les Polycatégories, avec des pointeurs vers des articles pertinents. Quelques travaux inédits y sont présentés.
- Les Polycatégories ont été définies par Szabo en 1975 dans l&amp;rsquo;article Polycategories. Les Polycatégories sont des &amp;ldquo;catégories avec des morphismes a multiple entrées/sorties&amp;rdquo;. Les Polycatégories correspondent au calcul des séquents classique de Gentzen. Les Polycatégories se compose le long d&amp;rsquo;un objet. La composition de Polycatégories correspond à la coupure en logique.</description>
+      <description>&lt;p&gt;Une collection de choses à connaître sur les Polycatégories, avec des pointeurs vers des articles pertinents. Quelques travaux inédits y sont présentés.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Les &lt;strong&gt;Polycatégories&lt;/strong&gt; ont été définies par Szabo en 1975 dans l&amp;rsquo;article 
+&lt;a href=&#34;https://www.tandfonline.com/doi/abs/10.1080/00927877508822067&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Polycategories&lt;/em&gt;&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Les &lt;strong&gt;Polycatégories&lt;/strong&gt; sont des &amp;ldquo;catégories avec des morphismes a multiple entrées/sorties&amp;rdquo;.&lt;/li&gt;
+&lt;li&gt;Les &lt;strong&gt;Polycatégories&lt;/strong&gt; correspondent au &lt;strong&gt;calcul des séquents classique de Gentzen&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Les &lt;strong&gt;Polycatégories&lt;/strong&gt; se compose le long d&amp;rsquo;un objet.&lt;/li&gt;
+&lt;li&gt;La composition de &lt;strong&gt;Polycatégories&lt;/strong&gt; correspond à la coupure en logique.&lt;/li&gt;
+&lt;li&gt;Les &lt;strong&gt;Polycatégories représentables&lt;/strong&gt; sont les &lt;strong&gt;catégories linéairement distributives&lt;/strong&gt;, cf 
+&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/0022404995001603&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Weakly distributive categories&lt;/em&gt;&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Dans une &lt;strong&gt;Polycatégorie&lt;/strong&gt;, $\otimes$ et ⅋ sont caractérisés par une &lt;strong&gt;propriété universelle&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;La Logique est Universelle !&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Une &lt;strong&gt;Polycatégorie bifibrée&lt;/strong&gt; sur une Polycatégorie représentable est représentable, cf 
+&lt;a href=&#34;https://nicolas-blanco.github.io/fr/talk/syco5/&#34;&gt;&lt;em&gt;my talk&lt;/em&gt;&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;La &lt;strong&gt;Polycatégorie terminale&lt;/strong&gt; contient un objet $\ast$ et un polymorphisme $\underline{(m,n)}$ pour chaque paire d&amp;rsquo;arités.&lt;/li&gt;
+&lt;li&gt;Une &lt;strong&gt;Polycatégorie&lt;/strong&gt; est &lt;strong&gt;représentable&lt;/strong&gt; ssi elle est &lt;strong&gt;bifibrée&lt;/strong&gt; sur la &lt;strong&gt;Polycatégorie terminale&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Les &lt;strong&gt;polymorphismes universaux&lt;/strong&gt; correspondent aux &lt;strong&gt;polymorphismes opcartésiens&lt;/strong&gt;, par rapport au foncteur vers la &lt;strong&gt;Polycatégorie&lt;/strong&gt; terminale.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;L&amp;rsquo;Universalité est Fibrationnelle !&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Les &lt;strong&gt;algèbres de Frobenius&lt;/strong&gt; sont les éléments généralisés des &lt;strong&gt;Polycatégories&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
     <item>
       <title>Classical linear logic via bifibrations of polycategories</title>
       <link>https://nicolas-blanco.github.io/fr/talk/syco5/</link>
       <pubDate>Wed, 04 Sep 2019 15:00:00 +0000</pubDate>
-      
       <guid>https://nicolas-blanco.github.io/fr/talk/syco5/</guid>
-      <description>Une correspondance entre catégories linéairement distributives et polycatégories bifibrée sur la polycatégorie terminale. (en anglais)</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://nicolas-blanco.github.io/fr/authors/admin/</link>
-      <pubDate>Tue, 02 Jun 2020 16:30:00 +0100</pubDate>
-      
-      <guid>https://nicolas-blanco.github.io/fr/authors/admin/</guid>
-      <description>Je suis doctorant dans l&amp;rsquo;équipe d&amp;rsquo;Informatique Théorique de l&amp;rsquo;Université de Birmingham. Mon directeur de thèse est Noam Zeilberger.
-Parmi les domaines de recherche qui m&amp;rsquo;attirent se trouvent les modèles de la logique linéaire, la sémantique des langages de programmation quantique et la théorie des catégories monoïdales.
-Je suis diplômé d&amp;rsquo;un Master en Logique Mathématique et Fondements de l&amp;rsquo;Informatique (LMFI) de l&amp;rsquo;Université Paris Diderot.
-Durant cette formation j&amp;rsquo;ai eu le privilège d&amp;rsquo;effectuer un stage de cinq mois au Laboratoire de Recherche en Informatique (LRI) de Paris Saclay sous la direction de Benoît Valiron.</description>
+      <description></description>
     </item>
     
   </channel>

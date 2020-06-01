@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
@@ -20,7 +20,6 @@
   <url>
     <loc>https://nicolas-blanco.github.io/fr/authors/</loc>
     <lastmod>2020-06-02T16:30:00+01:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -30,6 +29,21 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://nicolas-blanco.github.io/fr/authors/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://nicolas-blanco.github.io/fr/tags/bifibrations/</loc>
+    <lastmod>2020-06-02T16:30:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nicolas-blanco.github.io/tags/bifibrations/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://nicolas-blanco.github.io/fr/tags/bifibrations/"
                 />
   </url>
   
@@ -51,7 +65,6 @@
   <url>
     <loc>https://nicolas-blanco.github.io/fr/tags/frobenius-monoids/</loc>
     <lastmod>2020-06-02T16:30:00+01:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -67,7 +80,6 @@
   <url>
     <loc>https://nicolas-blanco.github.io/fr/tags/grothendieck-construction/</loc>
     <lastmod>2020-06-02T16:30:00+01:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -81,9 +93,23 @@
   </url>
   
   <url>
+    <loc>https://nicolas-blanco.github.io/fr/tags/linear-logic/</loc>
+    <lastmod>2020-06-02T16:30:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nicolas-blanco.github.io/tags/linear-logic/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://nicolas-blanco.github.io/fr/tags/linear-logic/"
+                />
+  </url>
+  
+  <url>
     <loc>https://nicolas-blanco.github.io/fr/</loc>
     <lastmod>2020-06-02T16:30:00+01:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -99,7 +125,6 @@
   <url>
     <loc>https://nicolas-blanco.github.io/fr/tags/polycategories/</loc>
     <lastmod>2020-06-02T16:30:00+01:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -130,7 +155,6 @@
   <url>
     <loc>https://nicolas-blanco.github.io/fr/tags/</loc>
     <lastmod>2020-06-02T16:30:00+01:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -144,41 +168,8 @@
   </url>
   
   <url>
-    <loc>https://nicolas-blanco.github.io/fr/tags/bifibrations/</loc>
-    <lastmod>2020-06-02T16:30:00+01:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://nicolas-blanco.github.io/tags/bifibrations/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://nicolas-blanco.github.io/fr/tags/bifibrations/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://nicolas-blanco.github.io/fr/tags/linear-logic/</loc>
-    <lastmod>2020-06-02T16:30:00+01:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://nicolas-blanco.github.io/tags/linear-logic/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://nicolas-blanco.github.io/fr/tags/linear-logic/"
-                />
-  </url>
-  
-  <url>
     <loc>https://nicolas-blanco.github.io/fr/publication_types/3/</loc>
     <lastmod>2020-05-30T13:28:54+01:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -209,7 +200,6 @@
   <url>
     <loc>https://nicolas-blanco.github.io/fr/authors/noam-zeilberger/</loc>
     <lastmod>2020-05-30T13:28:54+01:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -225,7 +215,6 @@
   <url>
     <loc>https://nicolas-blanco.github.io/fr/publication_types/</loc>
     <lastmod>2020-05-30T13:28:54+01:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -271,7 +260,6 @@
   <url>
     <loc>https://nicolas-blanco.github.io/fr/tags/fibration/</loc>
     <lastmod>2019-09-09T18:25:23+01:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -287,13 +275,11 @@
   <url>
     <loc>https://nicolas-blanco.github.io/fr/tags/polycat%C3%A9gorie/</loc>
     <lastmod>2019-09-09T18:25:23+01:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://nicolas-blanco.github.io/fr/post/</loc>
     <lastmod>2019-09-09T18:25:23+01:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -324,13 +310,11 @@
   <url>
     <loc>https://nicolas-blanco.github.io/fr/tags/logique-lin%C3%A9aire/</loc>
     <lastmod>2019-09-04T15:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://nicolas-blanco.github.io/fr/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -361,7 +345,6 @@
   <url>
     <loc>https://nicolas-blanco.github.io/fr/tags/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -377,7 +360,6 @@
   <url>
     <loc>https://nicolas-blanco.github.io/fr/tags/demo/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -423,7 +405,6 @@
   <url>
     <loc>https://nicolas-blanco.github.io/fr/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -438,7 +419,6 @@
   
   <url>
     <loc>https://nicolas-blanco.github.io/fr/categories/</loc>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
