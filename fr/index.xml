@@ -33,25 +33,25 @@
       <link>https://nicolas-blanco.github.io/fr/post/polycategorical_clickbait/</link>
       <pubDate>Mon, 09 Sep 2019 18:25:23 +0100</pubDate>
       <guid>https://nicolas-blanco.github.io/fr/post/polycategorical_clickbait/</guid>
-      <description>&lt;p&gt;Une collection de choses à connaître sur les Polycatégories, avec des pointeurs vers des articles pertinents. Quelques travaux inédits y sont présentés.&lt;/p&gt;
+      <description>&lt;p&gt;Une collection de choses à connaître sur les polycatégories, avec des pointeurs vers des articles pertinents. Quelques travaux inédits y sont présentés.&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;Les &lt;strong&gt;Polycatégories&lt;/strong&gt; ont été définies par Szabo en 1975 dans l&amp;rsquo;article 
+&lt;li&gt;Les &lt;strong&gt;polycatégories&lt;/strong&gt; ont été définies par Szabo en 1975 dans l&amp;rsquo;article 
 &lt;a href=&#34;https://www.tandfonline.com/doi/abs/10.1080/00927877508822067&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Polycategories&lt;/em&gt;&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Les &lt;strong&gt;Polycatégories&lt;/strong&gt; sont des &amp;ldquo;catégories avec des morphismes a multiple entrées/sorties&amp;rdquo;.&lt;/li&gt;
-&lt;li&gt;Les &lt;strong&gt;Polycatégories&lt;/strong&gt; correspondent au &lt;strong&gt;calcul des séquents classique de Gentzen&lt;/strong&gt;.&lt;/li&gt;
-&lt;li&gt;Les &lt;strong&gt;Polycatégories&lt;/strong&gt; se compose le long d&amp;rsquo;un objet.&lt;/li&gt;
-&lt;li&gt;La composition de &lt;strong&gt;Polycatégories&lt;/strong&gt; correspond à la coupure en logique.&lt;/li&gt;
-&lt;li&gt;Les &lt;strong&gt;Polycatégories représentables&lt;/strong&gt; sont les &lt;strong&gt;catégories linéairement distributives&lt;/strong&gt;, cf 
+&lt;li&gt;Les &lt;strong&gt;polycatégories&lt;/strong&gt; sont des &amp;ldquo;catégories avec des morphismes à multiple entrées/sorties&amp;rdquo;.&lt;/li&gt;
+&lt;li&gt;Les &lt;strong&gt;polycatégories&lt;/strong&gt; interprètent le &lt;strong&gt;calcul des séquents classique de Gentzen&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Les &lt;strong&gt;polycatégories&lt;/strong&gt; se compose le long d&amp;rsquo;un objet.&lt;/li&gt;
+&lt;li&gt;La composition de &lt;strong&gt;Polycatégories&lt;/strong&gt; est analogue à la coupure en logique.&lt;/li&gt;
+&lt;li&gt;Les &lt;strong&gt;polycatégories représentables&lt;/strong&gt; correspondent aux &lt;strong&gt;catégories linéairement distributives&lt;/strong&gt;, cf 
 &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/0022404995001603&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Weakly distributive categories&lt;/em&gt;&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Dans une &lt;strong&gt;Polycatégorie&lt;/strong&gt;, $\otimes$ et ⅋ sont caractérisés par une &lt;strong&gt;propriété universelle&lt;/strong&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;La Logique est Universelle !&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;Une &lt;strong&gt;Polycatégorie bifibrée&lt;/strong&gt; sur une Polycatégorie représentable est représentable, cf 
-&lt;a href=&#34;https://nicolas-blanco.github.io/fr/talk/syco5/&#34;&gt;&lt;em&gt;my talk&lt;/em&gt;&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;La &lt;strong&gt;Polycatégorie terminale&lt;/strong&gt; contient un objet $\ast$ et un polymorphisme $\underline{(m,n)}$ pour chaque paire d&amp;rsquo;arités.&lt;/li&gt;
-&lt;li&gt;Une &lt;strong&gt;Polycatégorie&lt;/strong&gt; est &lt;strong&gt;représentable&lt;/strong&gt; ssi elle est &lt;strong&gt;bifibrée&lt;/strong&gt; sur la &lt;strong&gt;Polycatégorie terminale&lt;/strong&gt;.&lt;/li&gt;
-&lt;li&gt;Les &lt;strong&gt;polymorphismes universaux&lt;/strong&gt; correspondent aux &lt;strong&gt;polymorphismes opcartésiens&lt;/strong&gt;, par rapport au foncteur vers la &lt;strong&gt;Polycatégorie&lt;/strong&gt; terminale.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;L&amp;rsquo;Universalité est Fibrationnelle !&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Dans une &lt;strong&gt;polycatégorie&lt;/strong&gt;, $\otimes$, ⅋ et dualité sont caractérisés par une &lt;strong&gt;propriété universelle&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Une polycatégorie représentable qui admet une dualité est dite ** *-représentable. **&lt;/li&gt;
+&lt;li&gt;Une &lt;strong&gt;polycatégorie bifibrée&lt;/strong&gt; sur une polycatégorie *-représentable est *-représentable, cf 
+&lt;a href=&#34;https://nicolas-blanco.github.io/fr/publication/polybifibrations/&#34;&gt;&lt;em&gt;my talk&lt;/em&gt;&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;La &lt;strong&gt;polycatégorie terminale&lt;/strong&gt; contient un objet $\ast$ et un polymorphisme $\underline{(m,n)}$ pour chaque paire d&amp;rsquo;arités.&lt;/li&gt;
+&lt;li&gt;Une &lt;strong&gt;polycatégorie&lt;/strong&gt; est ** &lt;em&gt;-représentable&lt;/em&gt;* ssi elle est **bifibrée** sur la **polycatégorie terminale**.&lt;/li&gt;
+&lt;li&gt;Les &lt;strong&gt;polymorphismes universaux&lt;/strong&gt; correspondent aux &lt;strong&gt;polymorphismes cartésiens&lt;/strong&gt;, par rapport au foncteur vers la &lt;strong&gt;Polycatégorie&lt;/strong&gt; terminale.&lt;/li&gt;
 &lt;li&gt;Les &lt;strong&gt;algèbres de Frobenius&lt;/strong&gt; sont les éléments généralisés des &lt;strong&gt;Polycatégories&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;La &lt;strong&gt;correspondance de Grothendieck&lt;/strong&gt; s&#39;étend aux &lt;strong&gt;polycatégories&lt;/strong&gt;.&lt;/li&gt;
 &lt;/ol&gt;
 </description>
     </item>
