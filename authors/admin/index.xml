@@ -44,11 +44,11 @@
 &lt;li&gt;&lt;strong&gt;Representable polycategories&lt;/strong&gt;, a.k.a. two-tensor polycategories, are &lt;strong&gt;linearly distributive categories&lt;/strong&gt;, see 
 &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/0022404995001603&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Weakly distributive categories&lt;/em&gt;&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;In a &lt;strong&gt;polycategory&lt;/strong&gt;, $\otimes$, ⅋ and duality are characterised by &lt;strong&gt;universal properties&lt;/strong&gt;.&lt;/li&gt;
-&lt;li&gt;Representable polycategories with duals are called ** &lt;em&gt;-representable&lt;/em&gt;*.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Polycategories bifibred&lt;/strong&gt; over &lt;em&gt;-representable one are ** &lt;em&gt;-representable&lt;/em&gt;&lt;/em&gt;, see 
-&lt;a href=&#34;https://nicolas-blanco.github.io/publication/polybifibrations/&#34;&gt;&lt;em&gt;my talk&lt;/em&gt;&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Representable polycategories with duals are called &lt;strong&gt;$\ast$-representable&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Polycategories bifibred&lt;/strong&gt; over $\ast$-representable one are &lt;strong&gt;$\ast$-representable&lt;/strong&gt;, see 
+&lt;a href=&#34;https://nicolas-blanco.github.io/publication/polybifibrations/&#34;&gt;&lt;em&gt;this paper&lt;/em&gt;&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;The &lt;strong&gt;terminal polycategory&lt;/strong&gt; have one object $\ast$ and one polymap $\underline{(m,n)}$ for each arities.&lt;/li&gt;
-&lt;li&gt;A &lt;strong&gt;Polycategory&lt;/strong&gt; is &lt;strong&gt;representable&lt;/strong&gt; iff it is &lt;strong&gt;bifibred&lt;/strong&gt; over the &lt;strong&gt;terminal&lt;/strong&gt; one.&lt;/li&gt;
+&lt;li&gt;A &lt;strong&gt;Polycategory&lt;/strong&gt; is &lt;strong&gt;$\ast$-representable&lt;/strong&gt; iff it is &lt;strong&gt;bifibred&lt;/strong&gt; over the &lt;strong&gt;terminal&lt;/strong&gt; one.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Universal polymaps&lt;/strong&gt; are the &lt;strong&gt;cartesian polymaps&lt;/strong&gt;, w.r.t. the functor into the terminal &lt;strong&gt;Polycategory&lt;/strong&gt;.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Frobenius algebras&lt;/strong&gt; are the generalised elements of &lt;strong&gt;polycategories&lt;/strong&gt;.&lt;/li&gt;
 &lt;li&gt;There is a &lt;strong&gt;Grothendieck correspondence&lt;/strong&gt; for polycategories.&lt;/li&gt;
