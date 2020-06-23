@@ -44,7 +44,7 @@
 &lt;li&gt;Les &lt;strong&gt;polycatégories représentables&lt;/strong&gt; correspondent aux &lt;strong&gt;catégories linéairement distributives&lt;/strong&gt;, cf 
 &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/0022404995001603&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Weakly distributive categories&lt;/em&gt;&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;Dans une &lt;strong&gt;polycatégorie&lt;/strong&gt;, $\otimes$, ⅋ et dualité sont caractérisés par une &lt;strong&gt;propriété universelle&lt;/strong&gt;.&lt;/li&gt;
-&lt;li&gt;Une polycatégorie représentable qui admet une dualité est dite ** $\ast$-représentable. **&lt;/li&gt;
+&lt;li&gt;Une polycatégorie représentable qui admet une dualité est dite &lt;strong&gt;$\ast$-représentable&lt;/strong&gt;.&lt;/li&gt;
 &lt;li&gt;Une &lt;strong&gt;polycatégorie bifibrée&lt;/strong&gt; sur une polycatégorie $\ast$-représentable est $\ast$-représentable, cf 
 &lt;a href=&#34;https://nicolas-blanco.github.io/fr/publication/polybifibrations/&#34;&gt;&lt;em&gt;cet article&lt;/em&gt;&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;La &lt;strong&gt;polycatégorie terminale&lt;/strong&gt; contient un objet $\ast$ et un polymorphisme $\underline{(m,n)}$ pour chaque paire d&amp;rsquo;arités.&lt;/li&gt;
