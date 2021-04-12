@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	
-	<sitemap>
-	   	<loc>https://nicolas-blanco.github.io/en/sitemap.xml</loc>
-		
-	   	<lastmod>2020-06-02T16:30:00+01:00</lastmod>
-		
-	</sitemap>
-	
-	<sitemap>
-	   	<loc>https://nicolas-blanco.github.io/fr/sitemap.xml</loc>
-		
-	   	<lastmod>2020-06-02T16:30:00+01:00</lastmod>
-		
-	</sitemap>
-	
+  
+  <sitemap>
+    <loc>https://nicolas-blanco.github.io/en/sitemap.xml</loc>
+    
+      <lastmod>2020-06-02T16:30:00+01:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://nicolas-blanco.github.io/fr/sitemap.xml</loc>
+    
+      <lastmod>2020-06-02T16:30:00+01:00</lastmod>
+    
+  </sitemap>
+  
 </sitemapindex>

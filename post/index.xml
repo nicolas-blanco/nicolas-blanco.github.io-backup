@@ -5,9 +5,9 @@
     <link>https://nicolas-blanco.github.io/post/</link>
       <atom:link href="https://nicolas-blanco.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en</language><lastBuildDate>Mon, 09 Sep 2019 18:25:23 +0100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Mon, 09 Sep 2019 18:25:23 +0100</lastBuildDate>
     <image>
-      <url>https://nicolas-blanco.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://nicolas-blanco.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
       <link>https://nicolas-blanco.github.io/post/</link>
     </image>
@@ -19,18 +19,15 @@
       <guid>https://nicolas-blanco.github.io/post/polycategorical_clickbait/</guid>
       <description>&lt;p&gt;A quick compilation of facts about polycategories together with links to the appropriate litterature. Some are original work.&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;Polycategories&lt;/strong&gt; have been introduced by Szabo in 1975 in 
-&lt;a href=&#34;https://www.tandfonline.com/doi/abs/10.1080/00927877508822067&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Polycategories&lt;/em&gt;&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Polycategories&lt;/strong&gt; have been introduced by Szabo in 1975 in &lt;a href=&#34;https://www.tandfonline.com/doi/abs/10.1080/00927877508822067&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Polycategories&lt;/em&gt;&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Polycategories&lt;/strong&gt; are &amp;ldquo;categories with many-to-many morphisms&amp;rdquo;, i.e. &lt;strong&gt;polymaps&lt;/strong&gt; have many inputs and many outputs.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Polycategories&lt;/strong&gt; correspond to &lt;strong&gt;Gentzen classical sequent calculus&lt;/strong&gt;.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Polycategories&lt;/strong&gt; compose on one object.&lt;/li&gt;
 &lt;li&gt;Composition of &lt;strong&gt;Polycategories&lt;/strong&gt; is the cut rule.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Representable polycategories&lt;/strong&gt;, a.k.a. two-tensor polycategories, are &lt;strong&gt;linearly distributive categories&lt;/strong&gt;, see 
-&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/0022404995001603&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Weakly distributive categories&lt;/em&gt;&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Representable polycategories&lt;/strong&gt;, a.k.a. two-tensor polycategories, are &lt;strong&gt;linearly distributive categories&lt;/strong&gt;, see &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/0022404995001603&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Weakly distributive categories&lt;/em&gt;&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;In a &lt;strong&gt;polycategory&lt;/strong&gt;, $\otimes$, ⅋ and duality are characterised by &lt;strong&gt;universal properties&lt;/strong&gt;.&lt;/li&gt;
 &lt;li&gt;Representable polycategories with duals are called &lt;strong&gt;$\ast$-representable&lt;/strong&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Polycategories bifibred&lt;/strong&gt; over $\ast$-representable one are &lt;strong&gt;$\ast$-representable&lt;/strong&gt;, see 
-&lt;a href=&#34;https://nicolas-blanco.github.io/publication/polybifibrations/&#34;&gt;&lt;em&gt;this paper&lt;/em&gt;&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Polycategories bifibred&lt;/strong&gt; over $\ast$-representable one are &lt;strong&gt;$\ast$-representable&lt;/strong&gt;, see &lt;a href=&#34;https://nicolas-blanco.github.io/publication/polybifibrations/&#34;&gt;&lt;em&gt;this paper&lt;/em&gt;&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;The &lt;strong&gt;terminal polycategory&lt;/strong&gt; have one object $\ast$ and one polymap $\underline{(m,n)}$ for each arities.&lt;/li&gt;
 &lt;li&gt;A &lt;strong&gt;Polycategory&lt;/strong&gt; is &lt;strong&gt;$\ast$-representable&lt;/strong&gt; iff it is &lt;strong&gt;bifibred&lt;/strong&gt; over the &lt;strong&gt;terminal&lt;/strong&gt; one.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Universal polymaps&lt;/strong&gt; are the &lt;strong&gt;cartesian polymaps&lt;/strong&gt;, w.r.t. the functor into the terminal &lt;strong&gt;Polycategory&lt;/strong&gt;.&lt;/li&gt;

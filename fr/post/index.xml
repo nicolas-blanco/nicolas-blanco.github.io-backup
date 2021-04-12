@@ -5,9 +5,9 @@
     <link>https://nicolas-blanco.github.io/fr/post/</link>
       <atom:link href="https://nicolas-blanco.github.io/fr/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr</language><lastBuildDate>Mon, 09 Sep 2019 18:25:23 +0100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>fr</language><lastBuildDate>Mon, 09 Sep 2019 18:25:23 +0100</lastBuildDate>
     <image>
-      <url>https://nicolas-blanco.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://nicolas-blanco.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
       <link>https://nicolas-blanco.github.io/fr/post/</link>
     </image>
@@ -19,23 +19,20 @@
       <guid>https://nicolas-blanco.github.io/fr/post/polycategorical_clickbait/</guid>
       <description>&lt;p&gt;Une collection de choses à connaître sur les polycatégories, avec des pointeurs vers des articles pertinents. Quelques travaux inédits y sont présentés.&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;Les &lt;strong&gt;polycatégories&lt;/strong&gt; ont été définies par Szabo en 1975 dans l&amp;rsquo;article 
-&lt;a href=&#34;https://www.tandfonline.com/doi/abs/10.1080/00927877508822067&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Polycategories&lt;/em&gt;&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Les &lt;strong&gt;polycatégories&lt;/strong&gt; ont été définies par Szabo en 1975 dans l&amp;rsquo;article &lt;a href=&#34;https://www.tandfonline.com/doi/abs/10.1080/00927877508822067&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Polycategories&lt;/em&gt;&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;Les &lt;strong&gt;polycatégories&lt;/strong&gt; sont des &amp;ldquo;catégories avec des morphismes à multiple entrées/sorties&amp;rdquo;.&lt;/li&gt;
 &lt;li&gt;Les &lt;strong&gt;polycatégories&lt;/strong&gt; interprètent le &lt;strong&gt;calcul des séquents classique de Gentzen&lt;/strong&gt;.&lt;/li&gt;
 &lt;li&gt;Les &lt;strong&gt;polycatégories&lt;/strong&gt; se compose le long d&amp;rsquo;un objet.&lt;/li&gt;
 &lt;li&gt;La composition de &lt;strong&gt;Polycatégories&lt;/strong&gt; est analogue à la coupure en logique.&lt;/li&gt;
-&lt;li&gt;Les &lt;strong&gt;polycatégories représentables&lt;/strong&gt; correspondent aux &lt;strong&gt;catégories linéairement distributives&lt;/strong&gt;, cf 
-&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/0022404995001603&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Weakly distributive categories&lt;/em&gt;&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Les &lt;strong&gt;polycatégories représentables&lt;/strong&gt; correspondent aux &lt;strong&gt;catégories linéairement distributives&lt;/strong&gt;, cf &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/0022404995001603&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Weakly distributive categories&lt;/em&gt;&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;Dans une &lt;strong&gt;polycatégorie&lt;/strong&gt;, $\otimes$, ⅋ et dualité sont caractérisés par une &lt;strong&gt;propriété universelle&lt;/strong&gt;.&lt;/li&gt;
 &lt;li&gt;Une polycatégorie représentable qui admet une dualité est dite &lt;strong&gt;$\ast$-représentable&lt;/strong&gt;.&lt;/li&gt;
-&lt;li&gt;Une &lt;strong&gt;polycatégorie bifibrée&lt;/strong&gt; sur une polycatégorie $\ast$-représentable est $\ast$-représentable, cf 
-&lt;a href=&#34;https://nicolas-blanco.github.io/fr/publication/polybifibrations/&#34;&gt;&lt;em&gt;cet article&lt;/em&gt;&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Une &lt;strong&gt;polycatégorie bifibrée&lt;/strong&gt; sur une polycatégorie $\ast$-représentable est $\ast$-représentable, cf &lt;a href=&#34;https://nicolas-blanco.github.io/fr/publication/polybifibrations/&#34;&gt;&lt;em&gt;cet article&lt;/em&gt;&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;La &lt;strong&gt;polycatégorie terminale&lt;/strong&gt; contient un objet $\ast$ et un polymorphisme $\underline{(m,n)}$ pour chaque paire d&amp;rsquo;arités.&lt;/li&gt;
 &lt;li&gt;Une &lt;strong&gt;polycatégorie&lt;/strong&gt; est &lt;strong&gt;$\ast$-représentable&lt;/strong&gt; ssi elle est &lt;strong&gt;bifibrée&lt;/strong&gt; sur la &lt;strong&gt;polycatégorie terminale&lt;/strong&gt;.&lt;/li&gt;
 &lt;li&gt;Les &lt;strong&gt;polymorphismes universaux&lt;/strong&gt; correspondent aux &lt;strong&gt;polymorphismes cartésiens&lt;/strong&gt;, par rapport au foncteur vers la &lt;strong&gt;Polycatégorie&lt;/strong&gt; terminale.&lt;/li&gt;
 &lt;li&gt;Les &lt;strong&gt;algèbres de Frobenius&lt;/strong&gt; sont les éléments généralisés des &lt;strong&gt;polycatégories&lt;/strong&gt;.&lt;/li&gt;
-&lt;li&gt;La &lt;strong&gt;correspondance de Grothendieck&lt;/strong&gt; s&#39;étend aux &lt;strong&gt;polycatégories&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;La &lt;strong&gt;correspondance de Grothendieck&lt;/strong&gt; s&amp;rsquo;étend aux &lt;strong&gt;polycatégories&lt;/strong&gt;.&lt;/li&gt;
 &lt;/ol&gt;
 </description>
     </item>
